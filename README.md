@@ -1,6 +1,6 @@
 # FrontEnd Developer!
 
-[Check my portfolio]((https://floriansacc.github.io/)
+[Check my portfolio](https://floriansacc.github.io/)
 
 <!--
 **floriansacc/floriansacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
