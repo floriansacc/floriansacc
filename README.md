@@ -1,8 +1,13 @@
-# FrontEnd Developer!
-
-:star2: <a href="https://floriansacc.github.io/" style="text-decoration:none; color:inherit;">Check my portfolio</a> :sparkles:
-
-:sparkles: <a href="https://floriansacc.github.io/" style="text-decoration: none;">포트폴리오 확인하러 가기</a> :star2:
+<div align="center">
+  <h2>SACCHETTI Florian - Front-end Developer</h2>
+</div>
+<br />
+<br />
+<div align="center">
+  <h4><a href="https://floriansacc.github.io/" text-decoration="none; color:inherit;">:star2: Check my portfolio :sparkles:</a></h4>
+  <h4><a href="https://floriansacc.github.io/" text-decoration="none; color:inherit;">:sparkles: 포트폴리오 확인하러 가기 :star2:</a></h4>
+</div>
+<br />
 
 <!--
 **floriansacc/floriansacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
