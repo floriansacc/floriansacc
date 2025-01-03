@@ -12,14 +12,18 @@
 </div>
 
 <br />
-
+<div align="center">
+  <a href="http://qr.kakao.com/talk/9DzDCSUIxhosfgCLWffciyNPw6k-">
+    <img src="https://img.shields.io/badge/KakaoId: floriansacchetti-FEE500?style=flat" alt="Kakao" />
+  </a>
+</div>
 <div align="center">
   <a href="https://fr.linkedin.com/in/florian-sacchetti-34ba59191">
-    <img src="https://img.shields.io/badge/Florian%20Sacchetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Florian%20Sacchetti-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-<a href="mailto:florian.sacchetti@gmail.com">
-  <img src="https://img.shields.io/badge/florian.sacchetti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-</a>
+  <a href="mailto:florian.sacchetti@gmail.com">
+    <img src="https://img.shields.io/badge/florian.sacchetti@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
 </div>
 
 
