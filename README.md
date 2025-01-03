@@ -14,12 +14,12 @@
 <br />
 
 <div align="center">
-  <a href="https://fr.linkedin.com/in/florian-sacchetti-34ba59191" target="_blank">
+  <a href="https://fr.linkedin.com/in/florian-sacchetti-34ba59191">
     <img src="https://img.shields.io/badge/Florian%20Sacchetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:florian.sacchetti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/florian.sacchetti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:florian.sacchetti@gmail.com">
+  <img src="https://img.shields.io/badge/florian.sacchetti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+</a>
 </div>
 
 
