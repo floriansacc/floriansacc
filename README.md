@@ -7,14 +7,14 @@
 
 
 <div align="center">
-  <h4><a href="https://floriansacc.github.io/" text-decoration="none; color:inherit;">:star2: Check my portfolio :sparkles:</a></h4>
-  <h4><a href="https://floriansacc.github.io/" text-decoration="none; color:inherit;">:sparkles: 포트폴리오 확인하러 가기 :star2:</a></h4>
+  <h4><a href="https://floriansacc.github.io/" target="_blank" text-decoration="none; color:inherit;">:star2: Check my portfolio :sparkles:</a></h4>
+  <h4><a href="https://floriansacc.github.io/" target="_blank" text-decoration="none; color:inherit;">:sparkles: 포트폴리오 확인하러 가기 :star2:</a></h4>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://fr.linkedin.com/in/florian-sacchetti-34ba59191">
+  <a href="https://fr.linkedin.com/in/florian-sacchetti-34ba59191" target="_blank">
     <img src="https://img.shields.io/badge/Florian%20Sacchetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:florian.sacchetti@gmail.com" target="_blank">
